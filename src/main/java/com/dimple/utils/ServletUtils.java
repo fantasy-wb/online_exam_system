@@ -12,7 +12,6 @@ import java.io.IOException;
 /**
  * @className: ServletUtils
  * @description: 客户端工具类
- * @auther: Dimple
  * @Date: 2019/3/13
  * @Version: 1.1
  */

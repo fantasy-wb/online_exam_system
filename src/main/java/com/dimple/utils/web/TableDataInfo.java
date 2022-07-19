@@ -6,7 +6,6 @@ import java.util.List;
 /**
  * @className: TableDataInfo
  * @description: 表格分页数据对象
- * @auther: Dimple
  * @Date: 2019/3/13
  * @Version: 1.1
  */

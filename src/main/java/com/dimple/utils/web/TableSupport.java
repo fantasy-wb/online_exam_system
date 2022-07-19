@@ -5,7 +5,6 @@ import com.dimple.utils.ServletUtils;
 /**
  * @className: TableSupport
  * @description: 表格数据处理
- * @auther: Dimple
  * @Date: 2019/3/13
  * @Version: 1.1
  */

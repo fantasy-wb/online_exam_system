@@ -41,7 +41,6 @@ import java.util.HashMap;
 /**
  * @className: LoginController
  * @description: 登录相关
- * @auther: Dimple
  * @date: 04/29/19
  * @version: 1.0
  */

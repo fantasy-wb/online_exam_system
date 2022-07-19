@@ -5,7 +5,6 @@ import java.util.HashMap;
 /**
  * @className: AjaxResult
  * @description: 操作消息提醒
- * @auther: Dimple
  * @Date: 2019/3/13
  * @Version: 1.1
  */

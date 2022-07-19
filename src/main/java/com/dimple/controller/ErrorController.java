@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * @className: ErrorController
  * @description: 出异常页面跳转和显示
- * @auther: Dimple
  * @date: 04/30/19
  * @version: 1.0
  */

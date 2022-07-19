@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 /**
  * @className: IndexController
  * @description:
- * @auther: Dimple
  * @date: 04/29/19
  * @version: 1.0
  */

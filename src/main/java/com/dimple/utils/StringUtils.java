@@ -6,7 +6,6 @@ import java.util.Map;
 /**
  * @className: StringUtils
  * @description: 字符串工具类
- * @auther: Dimple
  * @Date: 2019/3/13
  * @Version: 1.1
  */

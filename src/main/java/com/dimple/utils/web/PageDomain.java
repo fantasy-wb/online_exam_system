@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * @className: PageDomain
  * @description: 分页数据
- * @auther: Dimple
  * @Date: 2019/3/13
  * @Version: 1.1
  */

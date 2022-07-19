@@ -10,7 +10,6 @@ import java.util.Set;
 /**
  * @className: Convert
  * @description: 类型转换器
- * @auther: Dimple
  * @Date: 2019/3/13
  * @Version: 1.1
  */
